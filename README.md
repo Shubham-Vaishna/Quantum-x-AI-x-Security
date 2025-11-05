@@ -22,4 +22,3 @@ Here I write short, human-level summaries of research papers I read, with practi
 
 ---
 
-## 📁 Repo structure (recommended)
