@@ -1,7 +1,5 @@
 # Paper Summary — *Quantum Computing and Artificial Intelligence: Status and Perspectives*
-
-**Authors:** (see original paper / PDF)  
-**Source / PDF:** `assets/papers/QC and AI.pdf` *(or the original link where available)*  
+ 
 **Date Reviewed:** 2025-11-05  
 **Keywords:** Quantum Computing, Qubits, Superposition, Entanglement, Quantum Machine Learning (QML), Quantum Annealing, AI Training, Error Correction, Post-Quantum Cryptography
 
@@ -88,12 +86,7 @@ Quantum computing and AI are complementary: quantum can potentially accelerate A
 
 ---
 
-## 👣 Next steps I will take
-- Implement a **toy QML classification** in Qiskit and post the notebook to `notebooks/`.  
-- Write a 1-page note comparing classical vs quantum approaches for one small ML task (e.g., clustering or binary classification).  
-- Add a short README badge / date stamp when a summary is updated.
 
 ---
 
-*Prepared by: Shubham Vaishnav — 2025-11-05*  
-*If you read this and have suggestions for related papers, ping me at v.shubhamtech@gmail.com*
+*Prepared by: Shubham
